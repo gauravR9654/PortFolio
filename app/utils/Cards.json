@@ -1,0 +1,28 @@
+
+    [
+        {
+            "image": "https://i.pinimg.com/564x/09/47/db/0947db859f8bbec51f4f85d030c59b03.jpg",
+            "title": "Quote 1",
+            "description": "Info which directs to the other page."
+        },
+        {
+            "image": "https://i.pinimg.com/564x/e2/0c/be/e20cbee0e83366b26da8f0d4d7b3a44b.jpg",
+            "title": "Quote 2",
+            "description": "Info which directs to the other page."
+        },
+        {
+            "image": "https://i.pinimg.com/564x/d6/70/e5/d670e5d9e9827f4972e1e7463cfa6edb.jpg",
+            "title": "Quote 3",
+            "description": "Info which directs to the other page."
+        },
+        {
+            "image": "https://i.pinimg.com/564x/67/b9/1b/67b91b9bbc90325df8fcf880261fbea3.jpg",
+            "title": "Quote 4",
+            "description": "Info which directs to the other page."
+        },
+        {
+            "image": "https://i.pinimg.com/564x/32/1f/69/321f697fceeff01a168a35b6098c41b6.jpg",
+            "title": "Quote 5",
+            "description": "Info which directs to the other page."
+        }
+    ]
