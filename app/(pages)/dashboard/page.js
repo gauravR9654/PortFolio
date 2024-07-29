@@ -10,20 +10,21 @@ import Footer from "@/app/_component/Footer"
 const dashboard = () => {
     return (
         <>
-            {/* NAVBAR */}
-            <StickyNavbar />
-            {/* SLIDEER */}
-            <Slider data={sliderData} />
-            {/*CONTENT DATA  */}
-            <Content data={cards} />
-            {/* Intro */}
-            <Intro />
-            {/* Experince */}
-            <Experience/>
-            {/* Footer */}
-            <Footer/>
+            {/* <div className="bg-white"> */}
+                {/* NAVBAR */}
+                <StickyNavbar />
+                {/* SLIDEER */}
+                <Slider data={sliderData} />
+                {/*CONTENT DATA  */}
+                <Content data={cards} />
+                {/* Intro */}
+                <Infootro />
+                {/* Experince */}
+                <Experience />
+                {/* Footer */}
+                <Footer />
 
-            
+            {/* </div> */}
         </>
     )
 
